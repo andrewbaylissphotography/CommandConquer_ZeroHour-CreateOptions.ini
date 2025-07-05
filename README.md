@@ -24,7 +24,7 @@ A simple PowerShell-based tool to set Options.ini for Command & Conquer Zero Hou
 
 ## 🚀 Quick Start
 
-1. 📥 [Download CommandConquer_ZeroHour-CreateOptions.ini](https://github.com/andrewbaylissphotography/CommandConquer_ZeroHour-CreateOptions.ini)
+1. 📥 [Download CommandConquer_ZeroHour-CreateOptions.ps1](https://raw.githubusercontent.com/andrewbaylissphotography/CommandConquer_ZeroHour-CreateOptions.ini/main/CreateOptions.ps1)
 2. Right-click the file → **Run with PowerShell**
 
 If you see a security warning, open PowerShell and run:
