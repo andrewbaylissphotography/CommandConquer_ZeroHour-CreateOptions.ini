@@ -37,7 +37,7 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 
 ## 📬 Feedback or Issues?
 
-Have a problem or want to suggest an addon? Open an issue or submit a pull request.
+Have a problem: Open an issue or submit a pull request.
 
 ---
 
